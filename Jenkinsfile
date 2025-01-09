@@ -28,7 +28,7 @@ pipeline {
 
     environment {
         DOCKER_HUB_REPO = "adarsh321/kaniko"
-        IMAGE_TAG = "2.0.0"
+        IMAGE_TAG = "3.0.0"
     }
 
     stages {
